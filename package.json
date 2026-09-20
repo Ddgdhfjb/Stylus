@@ -1,0 +1,11 @@
+{
+  "name": "bahn-expert-redesign",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node tools/dev-server.mjs"
+  },
+  "devDependencies": {
+    "selfsigned": "^2.4.1"
+  }
+}

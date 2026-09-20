@@ -1,0 +1,12 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "stylus-preview-server",
+      "runtimeExecutable": "node",
+      "runtimeArgs": ["tools/dev-server.mjs"],
+      "port": 5678,
+      "url": "https://localhost:5678"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Stylus Preview-Server starten",
+      "program": "${workspaceFolder}/tools/dev-server.mjs",
+      "console": "integratedTerminal"
+    }
+  ]
+}
